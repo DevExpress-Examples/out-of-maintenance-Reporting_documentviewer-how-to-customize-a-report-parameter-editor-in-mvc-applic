@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/E5053/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/E5053/Controllers/HomeController.vb))
+* [ProductsReport.cs](./CS/E5053/Reports/ProductsReport.cs) (VB: [ProductsReport.vb](./VB/E5053/Reports/ProductsReport.vb))
+* **[_DocumentViewerPartial.cshtml](./CS/E5053/Views/Home/_DocumentViewerPartial.cshtml)**
+* [Index.cshtml](./CS/E5053/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # DocumentViewer - How to customize a report parameter editor in MVC application
 
 
