@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # DocumentViewer - How to customize a report parameter editor in MVC application
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e5053)**
+**[[Run Online]](https://codecentral.devexpress.com/e5053/)**
 <!-- run online end -->
 
 
