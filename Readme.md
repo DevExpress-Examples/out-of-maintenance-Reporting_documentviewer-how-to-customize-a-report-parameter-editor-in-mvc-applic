@@ -11,9 +11,6 @@
 **[[Run Online]](https://codecentral.devexpress.com/e5053/)**
 <!-- run online end -->
 
-
-# DocumentViewer - How to customize a report parameter editor in an MVC application
-
 This example demonstrates how you can customize the editor used to edit the XtraReport parameter in the ASP.NET MVC application. The ComboBox editor bound to the Entity Framework model data is used there to edit the report's "CategoryID" parameter, instead of using a regular TextBox parameter editor.
 
 
